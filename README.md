@@ -78,7 +78,7 @@ My journey is fueled by a passion for technology and a commitment to excellence.
 <details>
   <summary><h3><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = "45"/> GitHub Stats</h3></summary>
 
-  <img align="left" alt="Diven Khatri's Github stats" src="https://github-readme-stats.vercel.app/api?username=dewo952&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Diven Khatri's Github stats" src="https://github-readme-stats.vercel.app/api?username=divenkhtri-thinkbar&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </details>
 
 

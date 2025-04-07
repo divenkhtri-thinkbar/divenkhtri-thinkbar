@@ -6,7 +6,7 @@ Hi! I'm Diven, a Software Engineer based in Mumbai, specializing in building rob
 
   <p align="left">
  <a href="https://github.com/divenkhtri-thinkbar?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/dewo952?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/divenkhtri-thinkbar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   </p>
 
 ---

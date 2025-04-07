@@ -5,7 +5,7 @@
 Hi! I'm Diven, a Software Engineer based in Mumbai, specializing in building robust and user-centric applications. I work with fast-growing startups and established businesses to create scalable, efficient, and secure web solutions that drive engagement and growth.
 
   <p align="left">
- <a href="https://github.com/dewo952?tab=followers">
+ <a href="https://github.com/divenkhtri-thinkbar?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/dewo952?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   </p>
 
